@@ -209,11 +209,11 @@ sup {
 }
 
 a {
-  color: #bd5d38;
+  color: #6045d4
   text-decoration: underline;
 }
 a:hover {
-  color: #974a2d;
+  color: #7a71a1;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
@@ -275,6 +275,9 @@ svg {
   vertical-align: middle;
 }
 
+img{
+  width: 100%;
+}
 table {
   caption-side: bottom;
   border-collapse: collapse;
@@ -7336,7 +7339,9 @@ textarea.form-control-lg {
 
 /* rtl:end:remove */
 .text-primary {
-  color: #bd5d38 !important;
+  /* color: #BD5D70 !important */
+  color: #7a71a1  !important
+  
 }
 
 .text-secondary {
@@ -7392,7 +7397,9 @@ textarea.form-control-lg {
 }
 
 .bg-primary {
-  background-color: #bd5d38 !important;
+  /* background-color: #BD5D70 !important */
+  background-color: #7a71a1 !important;
+
 }
 
 .bg-secondary {
@@ -10952,6 +10959,7 @@ p.lead {
 
 .dev-icons {
   font-size: 3rem;
+  color: black;
 }
 
 section.resume-section {
