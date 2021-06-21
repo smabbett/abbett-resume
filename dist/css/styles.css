@@ -209,7 +209,7 @@ sup {
 }
 
 a {
-  color: #6045d4
+  color: #6045d4;
   text-decoration: underline;
 }
 a:hover {
@@ -10954,7 +10954,7 @@ p.lead {
   margin-right: 0;
 }
 .social-icons .social-icon:hover {
-  background-color: #bd5d38;
+  background-color: #7a71a1;
 }
 
 .dev-icons {
